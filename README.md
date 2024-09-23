@@ -21,7 +21,7 @@ A simple command-line game implemented in JavaScript where the player competes a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/sandoropiok/rock-paper-scissors-game-js-basic.git
 2. Navigate to the project folder:
    ```bash
    cd rock-paper-scissors-game-js-basic
